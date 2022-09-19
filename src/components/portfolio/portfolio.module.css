@@ -1,0 +1,35 @@
+.bg {
+	background-color: wheat;
+	position: relative;
+	top: -22px;
+	height: auto;
+}
+
+.para {
+	color: blue;
+	position: relative;
+	left: 470px;
+	bottom: 265px;
+	text-align: left;
+	display:  block;
+	max-width: 900px;
+}
+
+.eyeCandy {
+	display: block;
+    position: relative;
+    max-width:450px;
+	max-height:500px;
+	width: auto;
+	height: auto;
+}
+
+.content {
+	display: grid;
+}
+
+.music {
+	display:  block;
+	max-width: 450px;
+	min-width: 10px;
+}

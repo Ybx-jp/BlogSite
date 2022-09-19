@@ -1,0 +1,50 @@
+.bg {
+	background-image: url("./photos/Good Morning Yumemi.jpg");
+	background-size: cover;
+	position: relative;
+	top: -22px;
+	height: 1750px;
+}
+
+.authorPic {
+	display: grid;
+	max-width:450px;
+	max-height:500px;
+	width: auto;
+	height: auto;
+}
+
+.authorTile {
+	position: absolute;
+	left: 700px;
+	top: 100px;
+}
+
+.authorText {
+	position: relative;
+	left: 400px;
+	top: -450px;
+	color: lightgoldenrodyellow;
+	background-color: cadetblue;
+	font-size: large;
+}
+
+.eyeCandy {
+	position: relative;
+    max-width:450px;
+	max-height:500px;
+	width: auto;
+	height: auto;
+}
+
+.contentTiles {
+	display: grid;
+	max-width: 450px;
+	max-height: 500px;
+	position: sticky;
+	left: 100px;
+}
+
+.page {
+	background-color: coral;
+}
